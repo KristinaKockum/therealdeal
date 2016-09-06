@@ -1,0 +1,16 @@
+body {
+	background: pink
+	font: 14pt/1.4 "Roboto";
+	max-width: 600px;
+	margin: 0 auto;
+}
+h1 {
+	color: darkgrey;
+	font: 18pt;
+}
+a {
+	color: darkgrey;
+}
+p {
+	padding-bottom: 5px;
+}
