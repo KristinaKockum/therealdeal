@@ -1,11 +1,11 @@
 body {
-	background: pink
-	font: 14pt/1.4 "Roboto";
+	background-color: red;
+	font: 14pt/1.4 arial;
 	max-width: 600px;
 	margin: 0 auto;
 }
 h1 {
-	color: darkgrey;
+	color: white;
 	font: 18pt;
 }
 a {
@@ -13,4 +13,10 @@ a {
 }
 p {
 	padding-bottom: 5px;
+}
+button {
+	background-color: white; 
+	font: arial;
+
+
 }
